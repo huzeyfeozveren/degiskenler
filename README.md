@@ -1,1 +1,1 @@
-# degiskenler
+**C# DEĞİŞKEN TANIMLAMALARI**
