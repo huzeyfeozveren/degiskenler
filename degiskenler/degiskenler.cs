@@ -1,6 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-
 //Console.WriteLine("Hello, World!");
 
 byte    b = 5;          //1 byte
